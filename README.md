@@ -1,0 +1,2 @@
+# Inheritance Quiz 2
+ 
